@@ -46,4 +46,4 @@ My [CV](https://sergo1977.github.io/rsschool-cv/ "My CV")
    - RS School Course «JavaScript/Front-end. Stage 0» (in progress)
 ## Languages:
 * Russian
-* English - A5
+* English - A1
