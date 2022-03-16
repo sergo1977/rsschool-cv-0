@@ -43,7 +43,7 @@ My [CV](https://sergo1977.github.io/rsschool-cv/ "My CV")
    - Belarusian State University, physicist-electronics
    - Belarusian State University, manager
 * **Courses:**
-   - RS School Course «JavaScript/Front-end. Stage 0» (in progress)
+   - RS School Course «JavaScript/Front-end. Stage 0»
 ## Languages:
 * Russian
 * English - A1
